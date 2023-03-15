@@ -1,12 +1,13 @@
 package sample;
 
-public class demo3 
+public class demo4 
 {
   public static void main(String[] args) 
   {
-	int a=20;
-	int b=20;
+	int a=50;
+	int b=90;
 	
 	System.out.println(a*b);
+	System.out.println(a+b);
   }
-}        
+}
